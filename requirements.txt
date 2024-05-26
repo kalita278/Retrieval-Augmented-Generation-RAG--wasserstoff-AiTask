@@ -4,7 +4,7 @@ langchain         # For language chain functionality
 tiktoken          # For tokenization
 faiss-cpu         # For GPU-accelerated similarity search; can also use faiss-gpu
 llama-cpp-python  # For llama functionality
-langchain-community langchain-core
+#langchain-community langchain-core
 
 # Additional dependencies
 ipywidgets        # For interactive widgets in Jupyter notebooks
