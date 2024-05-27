@@ -2,9 +2,8 @@ PyPDF2            # For PDF processing
 sentence_transformers  # For sentence embeddings
 langchain         # For language chain functionality
 tiktoken          # For tokenization
-faiss-cpu         # For GPU-accelerated similarity search; can also use faiss-gpu
+faiss-cpu         # For GPU-accelerated similarity search
 llama-cpp-python  # For llama functionality
-#langchain-community langchain-core
+langchain-community langchain-core
 
-# Additional dependencies
 ipywidgets        # For interactive widgets in Jupyter notebooks
